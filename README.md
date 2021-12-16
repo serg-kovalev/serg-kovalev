@@ -1,5 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=serg-kovalev&count_private=true&show_icons=true&line_height=27">
-<a href="https://example.com"><img align='right' src="https://img.shields.io/badge/LikedIn-Me-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a"></a>
+<a href="https://www.linkedin.com/in/skavaliou"><img align='right' src="https://img.shields.io/badge/LikedIn-Me-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a"></a>
 
 # Hi there 👋
 
