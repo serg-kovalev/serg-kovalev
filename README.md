@@ -1,12 +1,12 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=serg-kovalev&count_private=true&show_icons=true&line_height=27">
-<a href="https://www.linkedin.com/in/skavaliou"><img align='right' src="https://img.shields.io/badge/LikedIn-Me-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a"></a>
+<a href="https://www.linkedin.com/in/skavaliou"><img align='right' src="https://img.shields.io/badge/LinkedIn-Me-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a"></a>
 
 # Hi there 👋
 
 - I have more than 15 years of IT experience (including 11+ years of Ruby/RoR production experience)
 - skilled Ruby/Go developer
 - have strong knowledge in SQL (PostgreSQL/MySQL) & NoSQL solutions
-- have strong knowledge in Back-end & Front-end web applications development
+- have strong knowledge in Back-end & Front-end web application development
 - advanced *nix administration skills
 - played various roles from Software Engineer to Team Leader and Solution Architect
 - 10+ years of AWS & Rackspace experience and other cloud platforms and services
