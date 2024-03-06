@@ -1,17 +1,20 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=serg-kovalev&count_private=true&show_icons=true&line_height=27">
-<a href="https://www.linkedin.com/in/skavaliou"><img align='right' src="https://img.shields.io/badge/LinkedIn-Me-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a"></a>
-
 # Hi there 👋
 
-- I have more than 15 years of IT experience (including 11+ years of Ruby/RoR production experience)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=serg-kovalev&count_private=true&show_icons=true&line_height=27" />
+<a href="https://www.linkedin.com/in/skavaliou">
+  <img align='right' src="https://img.shields.io/badge/LinkedIn-Me-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a" />
+</a>
+
+- I have more than 18 years of IT experience (including 12+ years of Ruby/RoR production experience)
 - skilled Ruby/Go developer
 - have strong knowledge in SQL (PostgreSQL/MySQL) & NoSQL solutions
 - have strong knowledge in Back-end & Front-end web application development
 - advanced *nix administration skills
-- played various roles from Software Engineer to Team Leader and Solution Architect
-- 10+ years of AWS & Rackspace experience and other cloud platforms and services
+- played various roles from Software Engineer to Team/Tech Lead and Solution Architect
+- 12+ years of AWS & Rackspace experience and other cloud platforms and services
 
 ## Languages, technologies & tools
+
 ![](https://img.shields.io/badge/Lang-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
